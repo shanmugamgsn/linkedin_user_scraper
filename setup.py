@@ -16,8 +16,8 @@ setup(
         description = 'Scrapes user data from Linkedin',
         author = 'Joey Sham',
         author_email = 'sham.joey@gmail.com',
-        url = 'https://github.com/joeyism/linkedin_user_scraper', # use the URL to the github repo
-        download_url = 'https://github.com/joeyism/linkedin_user_scraper/dist/0.0.6.tar.gz',
+        url = 'https://github.com/shanmugamgsn/linkedin_user_scraper.git', # use the URL to the github repo
+        download_url = 'https://github.com/shanmugamgsn/linkedin_user_scraper/dist/0.0.6.tar.gz',
         keywords = ['linkedin', 'scraping', 'scraper'], 
         classifiers = [],
         install_requires=['lxml', 'request', 'selenium'],
